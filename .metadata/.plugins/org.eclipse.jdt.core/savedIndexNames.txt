@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/Users/danial/java/web_workspace/.metadata/.plugins/org.eclipse.jdt.core
+118913294.index
+97765907.index
+3910670370.index
+2131990899.index
+1114878147.index
+1880181144.index

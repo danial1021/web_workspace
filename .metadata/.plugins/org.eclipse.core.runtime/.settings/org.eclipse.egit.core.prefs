@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=/Users/danial/java/web_workspace/web-study-01/.git\:
-GitRepositoriesView.GitDirectories.relative=web-study-01/.git\:
+GitRepositoriesView.GitDirectories=/Users/danial/java/web_workspace/web-study-01/.git\:/Users/danial/java/web_workspace/.git\:
+GitRepositoriesView.GitDirectories.relative=web-study-01/.git\:.git\:
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

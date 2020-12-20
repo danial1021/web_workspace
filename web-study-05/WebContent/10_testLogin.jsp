@@ -11,5 +11,5 @@ if(id.equals(request.getParameter("id")) && pwd.equals(request.getParameter("pwd
 	response.sendRedirect("10_main.jsp");
 } else {
 	response.sendRedirect("10_loginForm.jsp");
-}
+} 
 %>

@@ -1,6 +1,8 @@
 INDEX VERSION 1.131
 /Users/danial/java/web_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2150651164.index
 /web-study-03/src
+/Users/danial/java/web_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/412295692.index
+/web-study-06/src
 /Users/danial/java/web_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1812712323.index
 /web-study-01/src
 /Users/danial/java/web_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4104699027.index
